@@ -53,3 +53,5 @@ This project involved setting up and configuring a 12-system computer lab tailor
 ## Summary
 
 This project showcases a comprehensive approach to setting up and managing a computer lab for educational purposes. It involved not only the technical configuration of hardware and software but also the development of custom content and administrative controls to create a secure, engaging, and educational environment for users.
+
+<img src="webpageSS.png">
